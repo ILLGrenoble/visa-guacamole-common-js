@@ -1,0 +1,33 @@
+{
+  "name": "@illgrenoble/visa-guacamole-common-js",
+  "version": "0.0.1",
+  "description": "Guacamole Common JS, used by the VISA platform, as an NPM module",
+  "scripts": {
+    "build": "gulp",
+    "prepublishOnly": "gulp"
+  },
+  "main": "dist/guacamole.js",
+  "types": "guacamole.d.ts",
+  "license": "MIT",
+  "files": [
+    "LICENSE",
+    "dist/guacamole.js",
+    "guacamole.d.ts",
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "guacamole"
+  ],
+  "author": "Jamie Hall <hall@ill.eu>",
+  "bugs": {
+    "url": "https://github.com/ILLGrenoble/visa-guacamole-common-js/issues"
+  },
+  "homepage": "https://github.com/ILLGrenoble/visa-guacamole-common-js",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
