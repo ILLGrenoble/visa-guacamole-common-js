@@ -1,6 +1,6 @@
 {
   "name": "@illgrenoble/visa-guacamole-common-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Guacamole Common JS, used by the VISA platform, as an NPM module",
   "scripts": {
     "build": "gulp",
