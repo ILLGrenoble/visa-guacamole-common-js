@@ -18,3 +18,10 @@ https://github.com/apache/guacamole-client/tree/master/guacamole-common-js
 
 https://guacamole.apache.org/
 
+<img src="https://github.com/panosc-eu/panosc/raw/master/Work%20Packages/WP9%20Outreach%20and%20communication/PaNOSC%20logo/PaNOSClogo_web_RGB.jpg" width="200px"/> 
+
+VISA has been developed as part of the Photon and Neutron Open Science Cloud (<a href="http://www.panosc.eu" target="_blank">PaNOSC</a>)
+
+<img src="https://github.com/panosc-eu/panosc/raw/master/Work%20Packages/WP9%20Outreach%20and%20communication/images/logos/eu_flag_yellow_low.jpg"/>
+
+PaNOSC has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 823852.
